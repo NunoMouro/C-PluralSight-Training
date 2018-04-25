@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\bin\Debug\ListDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\bin\Debug\ListDemo.exe
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\bin\Debug\ListDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\obj\Debug\ListDemo.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\obj\Debug\ListDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\obj\Debug\ListDemo.exe
+C:\Users\PrimeIT\demo\C# Project\ListDemo\ListDemo\obj\Debug\ListDemo.pdb

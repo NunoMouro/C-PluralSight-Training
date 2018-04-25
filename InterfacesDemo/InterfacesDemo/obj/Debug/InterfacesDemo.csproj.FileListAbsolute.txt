@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.exe
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\bin\Debug\InterfacesDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.exe
+C:\Users\PrimeIT\demo\C# Project\InterfacesDemo\InterfacesDemo\obj\Debug\InterfacesDemo.pdb
