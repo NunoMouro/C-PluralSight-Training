@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe.config
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.exe
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\bin\Debug\AbstractDemo.pdb
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.exe
+C:\Users\PrimeIT\source\repos\AbstractDemo\AbstractDemo\obj\Debug\AbstractDemo.pdb
