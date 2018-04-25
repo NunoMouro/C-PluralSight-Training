@@ -1,0 +1,6 @@
+C:\Users\PrimeIT\demo\C# Project\whileDemo\whileDemo\bin\Debug\whileDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\whileDemo\whileDemo\bin\Debug\whileDemo.exe
+C:\Users\PrimeIT\demo\C# Project\whileDemo\whileDemo\bin\Debug\whileDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\whileDemo\whileDemo\obj\Debug\whileDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\whileDemo\whileDemo\obj\Debug\whileDemo.exe
+C:\Users\PrimeIT\demo\C# Project\whileDemo\whileDemo\obj\Debug\whileDemo.pdb

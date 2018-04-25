@@ -1,0 +1,6 @@
+C:\Users\PrimeIT\demo\C# Project\switchDemo\switchDemo\bin\Debug\switchDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\switchDemo\switchDemo\bin\Debug\switchDemo.exe
+C:\Users\PrimeIT\demo\C# Project\switchDemo\switchDemo\bin\Debug\switchDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\switchDemo\switchDemo\obj\Debug\switchDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\switchDemo\switchDemo\obj\Debug\switchDemo.exe
+C:\Users\PrimeIT\demo\C# Project\switchDemo\switchDemo\obj\Debug\switchDemo.pdb
