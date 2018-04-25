@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.exe
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\bin\Debug\InheritanceDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.exe
+C:\Users\PrimeIT\demo\C# Project\InheritanceDemo\InheritanceDemo\obj\Debug\InheritanceDemo.pdb

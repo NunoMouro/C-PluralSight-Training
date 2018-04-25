@@ -1,0 +1,6 @@
+C:\Users\PrimeIT\demo\C# Project\IfDemo\IfDemo\bin\Debug\IfDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\IfDemo\IfDemo\bin\Debug\IfDemo.exe
+C:\Users\PrimeIT\demo\C# Project\IfDemo\IfDemo\bin\Debug\IfDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\IfDemo\IfDemo\obj\Debug\IfDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\IfDemo\IfDemo\obj\Debug\IfDemo.exe
+C:\Users\PrimeIT\demo\C# Project\IfDemo\IfDemo\obj\Debug\IfDemo.pdb

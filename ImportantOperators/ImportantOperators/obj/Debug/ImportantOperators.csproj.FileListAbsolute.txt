@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\bin\Debug\ImportantOperators.exe.config
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\bin\Debug\ImportantOperators.exe
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\bin\Debug\ImportantOperators.pdb
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.exe
+C:\Users\PrimeIT\source\repos\ImportantOperators\ImportantOperators\obj\Debug\ImportantOperators.pdb

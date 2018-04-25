@@ -1,0 +1,6 @@
+C:\Users\PrimeIT\demo\C# Project\forLoopDemo\forLoopDemo\bin\Debug\forLoopDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\forLoopDemo\forLoopDemo\bin\Debug\forLoopDemo.exe
+C:\Users\PrimeIT\demo\C# Project\forLoopDemo\forLoopDemo\bin\Debug\forLoopDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\forLoopDemo\forLoopDemo\obj\Debug\forLoopDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\forLoopDemo\forLoopDemo\obj\Debug\forLoopDemo.exe
+C:\Users\PrimeIT\demo\C# Project\forLoopDemo\forLoopDemo\obj\Debug\forLoopDemo.pdb
