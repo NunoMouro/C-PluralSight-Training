@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\bin\Debug\classesDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\bin\Debug\classesDemo.exe
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\bin\Debug\classesDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\obj\Debug\classesDemo.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\obj\Debug\classesDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\obj\Debug\classesDemo.exe
+C:\Users\PrimeIT\demo\C# Project\classesDemo\classesDemo\obj\Debug\classesDemo.pdb

@@ -1,0 +1,6 @@
+C:\Users\PrimeIT\source\repos\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe.config
+C:\Users\PrimeIT\source\repos\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.exe
+C:\Users\PrimeIT\source\repos\AsyncDemo\AsyncDemo\bin\Debug\AsyncDemo.pdb
+C:\Users\PrimeIT\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.exe
+C:\Users\PrimeIT\source\repos\AsyncDemo\AsyncDemo\obj\Debug\AsyncDemo.pdb

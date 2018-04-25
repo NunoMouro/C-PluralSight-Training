@@ -1,0 +1,6 @@
+C:\Users\PrimeIT\demo\C# Project\constantsDemo\constantsDemo\bin\Debug\constantsDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\constantsDemo\constantsDemo\bin\Debug\constantsDemo.exe
+C:\Users\PrimeIT\demo\C# Project\constantsDemo\constantsDemo\bin\Debug\constantsDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\constantsDemo\constantsDemo\obj\Debug\constantsDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\constantsDemo\constantsDemo\obj\Debug\constantsDemo.exe
+C:\Users\PrimeIT\demo\C# Project\constantsDemo\constantsDemo\obj\Debug\constantsDemo.pdb

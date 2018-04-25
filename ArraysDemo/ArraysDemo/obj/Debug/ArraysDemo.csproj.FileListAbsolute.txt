@@ -1,0 +1,7 @@
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe.config
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.exe
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\bin\Debug\ArraysDemo.pdb
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csprojResolveAssemblyReference.cache
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.csproj.CoreCompileInputs.cache
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.exe
+C:\Users\PrimeIT\demo\C# Project\ArraysDemo\ArraysDemo\obj\Debug\ArraysDemo.pdb
